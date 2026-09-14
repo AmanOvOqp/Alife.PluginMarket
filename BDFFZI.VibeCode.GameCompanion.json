@@ -23,6 +23,11 @@
     }
   },
   "releases": {
+    "1.3.2": {
+      "date": "2026-9-15 00:30:08",
+      "note": "fix:击杀链修复——推送时逐层收拢前置依赖采样器，不看防抖/过期，合并force/normal分支",
+      "file": "https://github.com/BDFFZI/Alife.OfficialPluginStorage/raw/refs/heads/main/BDFFZI.VibeCode.GameCompanion/1.3.2.zip"
+    },
     "1.3.1": {
       "date": "2026-8-29",
       "note": "修复启动后全屏捕获日志刷屏问题（移除每帧捕获的冗余日志）。",
