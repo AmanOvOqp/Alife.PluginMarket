@@ -23,6 +23,11 @@
     }
   },
   "releases": {
+    "1.4.0": {
+      "date": "2026-9-16 22:00:56",
+      "note": "feat:采样器触发冷却（静默期）——触发后进入静默冷却期，避免同一采样器被高频重复触发",
+      "file": "https://github.com/BDFFZI/Alife.OfficialPluginStorage/raw/refs/heads/main/BDFFZI.VibeCode.GameCompanion/1.4.0.zip"
+    },
     "1.3.2": {
       "date": "2026-9-15 00:30:08",
       "note": "fix:击杀链修复——推送时逐层收拢前置依赖采样器，不看防抖/过期，合并force/normal分支",
