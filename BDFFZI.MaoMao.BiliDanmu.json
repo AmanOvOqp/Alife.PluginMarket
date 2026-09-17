@@ -1,0 +1,19 @@
+{
+ "author": "BDFFZI",
+ "description": "纯C#实现B站直播弹幕监听，WebSocket直连弹幕服务器，观众弹幕实时推送给真央，直播时防熄屏。无需外部脚本。",
+ "id": "BDFFZI.MaoMao.BiliDanmu",
+ "name": "真央的B站弹幕监听",
+ "releases": {
+  "1.1.0": {
+   "date": "2026-09-17 23:19",
+   "note": "首个市场版本：弹幕监听由外部Python脚本重写为纯C# WebSocket实现，自包含零依赖",
+   "file": "https://github.com/BDFFZI/Alife.OfficialPluginStorage/raw/refs/heads/main/BDFFZI.MaoMao.BiliDanmu/1.1.0.zip"
+  }
+ },
+ "source": "https://github.com/BDFFZI/Alife.OfficialPluginStorage",
+ "tags": [
+  "直播",
+  "B站",
+  "真央的小工具"
+ ]
+}
