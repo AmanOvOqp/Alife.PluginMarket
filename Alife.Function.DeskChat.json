@@ -1,13 +1,14 @@
 {
   "id": "Alife.Function.DeskChat",
   "name": "桌面透视聊天框",
-  "author": "阿瞒",
+  "author": "AmanOvO",
   "description": "轻量常驻屏幕边缘的半透明聊天框，支持鼠标智能穿透与悬停激活输入，零多模态依赖，随时与当前 AI 对话。",
   "tags": [
     "交互方式",
     "桌面",
     "工具扩展"
   ],
+  "platforms": null,
   "source": "https://github.com/AmanOvOqp/Alife.Function.DeskChat",
   "dependencies": {
     "Alife.Function.FunctionCaller": ""
